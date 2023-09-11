@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "strawberry milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
